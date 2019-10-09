@@ -15,10 +15,11 @@
   },
   "scripts": {
     "start": "yarn build:style && react-scripts start",
-    "build": "react-scripts build",
+    "build": "yarn build:style:prod && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:style": "postcss src/styles/index.css -o src/styles/tailwind.css"
+    "build:style": "postcss src/styles/index.css -o src/styles/tailwind.css",
+    "build:style:prod": "postcss src/styles/index.css -o src/styles/tailwind.css --env production"
   },
   "eslintConfig": {
     "extends": "react-app"
