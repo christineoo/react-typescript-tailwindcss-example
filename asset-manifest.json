@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-typescript-tailwindcss-example/static/css/main.8f779699.chunk.css",
+    "main.css": "/react-typescript-tailwindcss-example/static/css/main.4d5973e0.chunk.css",
     "main.js": "/react-typescript-tailwindcss-example/static/js/main.418318c5.chunk.js",
     "main.js.map": "/react-typescript-tailwindcss-example/static/js/main.418318c5.chunk.js.map",
     "runtime-main.js": "/react-typescript-tailwindcss-example/static/js/runtime-main.57cb6bb6.js",
@@ -8,9 +8,9 @@
     "static/js/2.5126fdae.chunk.js": "/react-typescript-tailwindcss-example/static/js/2.5126fdae.chunk.js",
     "static/js/2.5126fdae.chunk.js.map": "/react-typescript-tailwindcss-example/static/js/2.5126fdae.chunk.js.map",
     "index.html": "/react-typescript-tailwindcss-example/index.html",
-    "precache-manifest.57bd75268403c7441f22d51522738dda.js": "/react-typescript-tailwindcss-example/precache-manifest.57bd75268403c7441f22d51522738dda.js",
+    "precache-manifest.03bec398be934449c98dae62dec8133b.js": "/react-typescript-tailwindcss-example/precache-manifest.03bec398be934449c98dae62dec8133b.js",
     "service-worker.js": "/react-typescript-tailwindcss-example/service-worker.js",
-    "static/css/main.8f779699.chunk.css.map": "/react-typescript-tailwindcss-example/static/css/main.8f779699.chunk.css.map",
+    "static/css/main.4d5973e0.chunk.css.map": "/react-typescript-tailwindcss-example/static/css/main.4d5973e0.chunk.css.map",
     "static/media/logo.svg": "/react-typescript-tailwindcss-example/static/media/logo.25bf045c.svg",
     "static/media/tailwindcss-logo.svg": "/react-typescript-tailwindcss-example/static/media/tailwindcss-logo.760a3ee4.svg",
     "static/media/typescript-logo.svg": "/react-typescript-tailwindcss-example/static/media/typescript-logo.2239d0f1.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.57cb6bb6.js",
     "static/js/2.5126fdae.chunk.js",
-    "static/css/main.8f779699.chunk.css",
+    "static/css/main.4d5973e0.chunk.css",
     "static/js/main.418318c5.chunk.js"
   ]
 }

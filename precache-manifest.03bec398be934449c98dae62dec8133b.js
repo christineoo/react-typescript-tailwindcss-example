@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57b68dc65010d44844dedd7cf1af16f9",
+    "revision": "9f58bef8ecf5dac5d918556d7719cf36",
     "url": "/react-typescript-tailwindcss-example/index.html"
   },
   {
-    "revision": "98996baf66d7b97a269a",
-    "url": "/react-typescript-tailwindcss-example/static/css/main.8f779699.chunk.css"
+    "revision": "d5b52a2516d9c810a3f8",
+    "url": "/react-typescript-tailwindcss-example/static/css/main.4d5973e0.chunk.css"
   },
   {
     "revision": "df7774c29156fabf98fa",
     "url": "/react-typescript-tailwindcss-example/static/js/2.5126fdae.chunk.js"
   },
   {
-    "revision": "98996baf66d7b97a269a",
+    "revision": "d5b52a2516d9c810a3f8",
     "url": "/react-typescript-tailwindcss-example/static/js/main.418318c5.chunk.js"
   },
   {

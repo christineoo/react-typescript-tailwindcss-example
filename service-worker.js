@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-typescript-tailwindcss-example/precache-manifest.57bd75268403c7441f22d51522738dda.js"
+  "/react-typescript-tailwindcss-example/precache-manifest.03bec398be934449c98dae62dec8133b.js"
 );
 
 self.addEventListener('message', (event) => {
