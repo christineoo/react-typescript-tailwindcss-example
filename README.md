@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with Typescript. [Tailwindcss](https://tailwindcss.com/) is then added. Tailwindcss is a utility-first CSS framework that you can use to style your web application. Do check out the [Tailwindcss](https://tailwindcss.com/) page, they have ons of resources on how to adapt a utility-first workflow :+1:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with Typescript. [Tailwindcss](https://tailwindcss.com/) is then added. Tailwindcss is a utility-first CSS framework that you can use to style your web application. Do check out the [Tailwindcss](https://tailwindcss.com/) page, they have tons of resources on how to adapt a utility-first workflow :+1:
 
 This example project also added the [purgecss](https://github.com/FullHuman/purgecss). This is needed so that unused css could be removed and thus reducing the output css file. Refering to the table below, the `.css` file is reduced significantly for this sample project after purgecss is added.
 
